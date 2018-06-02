@@ -1,5 +1,6 @@
 *Rtsp packet recorder (without transcoding)*
 
+Originally by @d-a-gerashenko
 
 **Usage** 
 
